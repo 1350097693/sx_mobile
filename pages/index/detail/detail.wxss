@@ -1,0 +1,4 @@
+/* pages/index/detail.wxss */
+a.weui-media-box{
+  background-color: #fff;
+}

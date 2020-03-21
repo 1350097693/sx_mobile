@@ -1,0 +1,14 @@
+.weui-panel__bd{
+  background-color: white;
+}
+.weui-media-box__thumb{
+  border-radius: 10px;
+}
+
+/* 下方列表 */
+.weui-cell{
+  padding: 14px;
+}
+.item{
+  font-size: 14px;
+}

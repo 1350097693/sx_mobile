@@ -1,0 +1,14 @@
+.weui-media-box {
+  padding: 10px;
+}
+
+.weui-badge {
+  float: right;
+  margin-top: -17px;
+}
+.message-time{
+  position: absolute;
+  right: 10px;
+  font-size: 13px;
+  color:  darkgray;
+}

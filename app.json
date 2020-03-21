@@ -1,0 +1,52 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/message/message",
+    "pages/cart/cart",
+    "pages/me/me",
+    "pages/index/detail/detail",
+    "pages/index/content/content",
+    "pages/message/chat/cjat",
+    "pages/message/chat/chat"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "晋淘淘",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "backgroundColor": "#fff",
+    "borderStyle": "white",
+    "selectedColor": "#fbda41",
+    "color": "#666666",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "/assets/home.png",
+        "selectedIconPath": "/assets/home1.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/message/message",
+        "iconPath": "/assets/message.png",
+        "selectedIconPath": "/assets/message1.png",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "iconPath": "/assets/cart.png",
+        "selectedIconPath": "/assets/cart1.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "iconPath": "/assets/me.png",
+        "selectedIconPath": "/assets/me1.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

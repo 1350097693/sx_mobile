@@ -1,0 +1,25 @@
+<scroll-view scroll-y="true" style="height: 100vh;">
+  <view class="chat-list">
+    <view class="word">
+      <image></image>
+      <view class="word-line">
+        <text class="word-name">名称</text>
+        <view class="word-content">你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊</view>
+      </view>
+    </view>
+
+    <view class="word right">
+      <image></image>
+      <view class="word-line word-line-right">
+        <text wx:if='' class="word-name">名称</text>
+        <view class="word-content word-content-right">你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊你好啊</view>
+      </view>
+    </view>
+  </view>
+  <view class="input">
+    <form>
+      <input type="text" placeholder="说点什么..."></input>
+      <button type="primary" form-type="submit" size="mini">发送</button>
+    </form>
+  </view>
+</scroll-view>

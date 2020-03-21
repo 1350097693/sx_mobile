@@ -1,0 +1,6 @@
+@import '/assets/weui.wxss';
+/**app.wxss**/
+page {
+    /* background-color: #fbda41; */
+    background-color:rgb(244, 244, 244);
+}
